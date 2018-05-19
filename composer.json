@@ -1,0 +1,13 @@
+{
+    "require": {
+        "workerman/gateway-worker": "^3.0",
+        "monolog/monolog": "^1.22",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
